@@ -104,8 +104,8 @@ WHERE gender = 'M' AND hasAnyApp = 'TRUE' GROUP BY country;
 SELECT country,AVG(productsSold) Average_sold ,AVG(productsBought) Average_bought 
 FROM users_data WHERE gender = 'M'GROUP BY country;
 ```
-# Conclusion
-
+# 📖 Conclusion
+This project showcases my proficiency in writing and executing advanced SQL queries while addressing practical business challenges for a C2C ecommerce platform. It reflects a systematic approach to problem-solving, strong data handling and manipulation skills, and the capability to uncover actionable insights that can drive platform growth and user engagement.
 
 
 
